@@ -1,0 +1,152 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf2d80aab7c53094389ae5607199354d, type: 3}
+  m_Name: FlowerPattern
+  m_EditorClassIdentifier: 
+  Repetitions: 1
+  AngleOffsetBetweenReps: 0
+  StartWait: 0
+  EndWait: 1
+  PatternSettings:
+  - NumberOfBullets: 6
+    BulletSpeed: 1.24
+    CooldownAfterShot: 0
+    AngleOffset: 0
+    PhaseOffset: 0
+    RadialMask: 0
+    MaskAngle: 0
+  - NumberOfBullets: 6
+    BulletSpeed: 1.18
+    CooldownAfterShot: 0
+    AngleOffset: -4
+    PhaseOffset: 0
+    RadialMask: 0
+    MaskAngle: 0
+  - NumberOfBullets: 6
+    BulletSpeed: 1.185
+    CooldownAfterShot: 0
+    AngleOffset: 3
+    PhaseOffset: 0
+    RadialMask: 0
+    MaskAngle: 0
+  - NumberOfBullets: 6
+    BulletSpeed: 0.2
+    CooldownAfterShot: 0
+    AngleOffset: 52.1
+    PhaseOffset: 0
+    RadialMask: 0
+    MaskAngle: 0
+  - NumberOfBullets: 6
+    BulletSpeed: 1.12
+    CooldownAfterShot: 0
+    AngleOffset: 7
+    PhaseOffset: 0
+    RadialMask: 0
+    MaskAngle: 0
+  - NumberOfBullets: 6
+    BulletSpeed: 1.12
+    CooldownAfterShot: 0
+    AngleOffset: -8
+    PhaseOffset: 0
+    RadialMask: 0
+    MaskAngle: 0
+  - NumberOfBullets: 6
+    BulletSpeed: 1.05
+    CooldownAfterShot: 0
+    AngleOffset: 11
+    PhaseOffset: 0
+    RadialMask: 0
+    MaskAngle: 0
+  - NumberOfBullets: 6
+    BulletSpeed: 1.04
+    CooldownAfterShot: 0
+    AngleOffset: -12.6
+    PhaseOffset: 0
+    RadialMask: 0
+    MaskAngle: 0
+  - NumberOfBullets: 6
+    BulletSpeed: 0.99
+    CooldownAfterShot: 0
+    AngleOffset: 15
+    PhaseOffset: 0
+    RadialMask: 0
+    MaskAngle: 0
+  - NumberOfBullets: 6
+    BulletSpeed: 0.96
+    CooldownAfterShot: 0
+    AngleOffset: -16.9
+    PhaseOffset: 0
+    RadialMask: 0
+    MaskAngle: 0
+  - NumberOfBullets: 6
+    BulletSpeed: 0.88
+    CooldownAfterShot: 0
+    AngleOffset: -21.2
+    PhaseOffset: 0
+    RadialMask: 0
+    MaskAngle: 0
+  - NumberOfBullets: 6
+    BulletSpeed: 0.82
+    CooldownAfterShot: 0
+    AngleOffset: 24.7
+    PhaseOffset: 0
+    RadialMask: 0
+    MaskAngle: 0
+  - NumberOfBullets: 6
+    BulletSpeed: 0.92
+    CooldownAfterShot: 0
+    AngleOffset: 19.4
+    PhaseOffset: 0
+    RadialMask: 0
+    MaskAngle: 0
+  - NumberOfBullets: 6
+    BulletSpeed: 0.92
+    CooldownAfterShot: 0
+    AngleOffset: 19.4
+    PhaseOffset: 0
+    RadialMask: 0
+    MaskAngle: 0
+  - NumberOfBullets: 6
+    BulletSpeed: 0.73
+    CooldownAfterShot: 0
+    AngleOffset: 29.5
+    PhaseOffset: 0
+    RadialMask: 0
+    MaskAngle: 0
+  - NumberOfBullets: 6
+    BulletSpeed: 0.8
+    CooldownAfterShot: 0
+    AngleOffset: -25.5
+    PhaseOffset: 0
+    RadialMask: 0
+    MaskAngle: 0
+  - NumberOfBullets: 6
+    BulletSpeed: 0.62
+    CooldownAfterShot: 0
+    AngleOffset: 34.3
+    PhaseOffset: 0
+    RadialMask: 0
+    MaskAngle: 0
+  - NumberOfBullets: 6
+    BulletSpeed: 0.46
+    CooldownAfterShot: 0
+    AngleOffset: 41
+    PhaseOffset: 0
+    RadialMask: 0
+    MaskAngle: 0
+  - NumberOfBullets: 6
+    BulletSpeed: 0.34
+    CooldownAfterShot: 0
+    AngleOffset: 46.4
+    PhaseOffset: 0
+    RadialMask: 0
+    MaskAngle: 0
